@@ -1,0 +1,135 @@
+{
+  "user": [
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "Lin",
+      "phone": "15362143888",
+      "email": "857287645@qq.com",
+      "id": 1,
+      "age": 20,
+      "education": "本科",
+      "bachelor": "学士",
+      "graduationschool": "电子科技大学",
+      "description": "本人非常帅啊",
+      "companyId": 1
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "Liu",
+      "phone": "289822882",
+      "email": "857287645@qq.com",
+      "id": 2,
+      "age": 20,
+      "education": "本科",
+      "bachelor": "学士",
+      "graduationschool": "电子科技大学",
+      "description": "本人非常帅啊",
+      "companyId": 1
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "Li",
+      "phone": "15362143888",
+      "email": "857287645@qq.com",
+      "id": 4,
+      "age": 20,
+      "education": "本科",
+      "bachelor": "学士",
+      "graduationschool": "电子科技大学",
+      "description": "本人非常帅啊",
+      "companyId": 2
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "Xu",
+      "phone": "15362143888",
+      "email": "857287645@qq.com",
+      "id": 5,
+      "age": 20,
+      "education": "本科",
+      "bachelor": "学士",
+      "graduationschool": "电子科技大学",
+      "description": "本人非常帅啊",
+      "companyId": 1
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "Xu",
+      "phone": "15362143888",
+      "email": "857287645@qq.com",
+      "id": 5,
+      "age": 20,
+      "education": "本科",
+      "bachelor": "学士",
+      "graduationschool": "电子科技大学",
+      "description": "本人非常帅啊",
+      "companyId": 1
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "Xu",
+      "phone": "15362143888",
+      "email": "857287645@qq.com",
+      "id": 5,
+      "age": 20,
+      "education": "本科",
+      "bachelor": "学士",
+      "graduationschool": "电子科技大学",
+      "description": "本人非常帅啊",
+      "companyId": 1
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "2323",
+      "phone": "22",
+      "email": "222",
+      "age": "",
+      "education": "",
+      "bachelor": "",
+      "graduationschool": "",
+      "description": "",
+      "id": 6
+    },
+    {
+      "addtime": "2019-7-21 10:1:27",
+      "name": "00099",
+      "phone": "00000",
+      "email": "0000",
+      "age": "",
+      "education": "",
+      "bachelor": "",
+      "graduationschool": "",
+      "description": "",
+      "id": 7
+    },
+    {
+      "addtime": "2019-7-21 10:14:28",
+      "name": "2323",
+      "phone": "23223",
+      "email": "232323",
+      "age": "",
+      "education": "",
+      "bachelor": "",
+      "graduationschool": "",
+      "description": "",
+      "id": 8
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good"
+    },
+    {
+      "id": 2,
+      "name": "HuaWei",
+      "description": "HuaWei is good"
+    },
+    {
+      "id": 3,
+      "name": "Oppo",
+      "description": "Oppo is good"
+    }
+  ]
+}
